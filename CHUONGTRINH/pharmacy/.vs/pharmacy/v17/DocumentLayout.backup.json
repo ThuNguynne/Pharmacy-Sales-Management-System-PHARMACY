@@ -1,0 +1,918 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|d:\\01_nat n\u00E8\\01_pttkhdt\\pharmacy\\frmphieudoitra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieudoitra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieudoitra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieudoitra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieudoitra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieudoitra.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbaocaotonghop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbaocaotonghop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmtrangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmgiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmgiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmgiaohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmgiaohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmmuahangkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmmuahangkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieuxuatkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieuxuatkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmmuahangkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmmuahangkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\pharmacymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:pharmacymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieunhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmquanlykhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmquanlykhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmquanlythuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmquanlythuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmquanlythuoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmquanlythuoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmmuahangkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmmuahangkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmtonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmtonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmgiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmgiaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmphieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmphieuxuatkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdangnhapkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdangnhapkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmhosokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmhosokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmhosokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmhosokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdangkykhachhangsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdangkykhachhangsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdangkykhachhangsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdangkykhachhangsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdangkythanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdangkythanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdangkythanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdangkythanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmsuakhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmsuakhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdanhsachdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdanhsachdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdanhsachdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdanhsachdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmdanhsachdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmdanhsachdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbaocaothongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmbaocaothongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmbaocaothongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmquanlythuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:frmquanlythuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9265D681-35EE-4657-A08C-0B02AC2736EA}|pharmacy.csproj|solutionrelative:uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AgIAAG0DAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:30:17.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPhieuDoiTra.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuDoiTra.cs",
+              "RelativeDocumentMoniker": "frmPhieuDoiTra.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuDoiTra.cs [Design]",
+              "RelativeToolTip": "frmPhieuDoiTra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:14:17.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:05:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBanHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBanHang.cs",
+              "RelativeDocumentMoniker": "frmBanHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBanHang.cs",
+              "RelativeToolTip": "frmBanHang.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAA1wPgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:59:38.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBanHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmBanHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBanHang.Designer.cs",
+              "RelativeToolTip": "frmBanHang.Designer.cs",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAAwJgBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:51:33.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPhieuDoiTra.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuDoiTra.cs",
+              "RelativeDocumentMoniker": "frmPhieuDoiTra.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuDoiTra.cs",
+              "RelativeToolTip": "frmPhieuDoiTra.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAQwOEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:30:01.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPhieuDoiTra.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuDoiTra.Designer.cs",
+              "RelativeDocumentMoniker": "frmPhieuDoiTra.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuDoiTra.Designer.cs",
+              "RelativeToolTip": "frmPhieuDoiTra.Designer.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAQwFABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:59:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:30:24.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBaoCaoTongHop.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoTongHop.cs",
+              "RelativeDocumentMoniker": "frmBaoCaoTongHop.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoTongHop.cs",
+              "RelativeToolTip": "frmBaoCaoTongHop.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:41:40.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmPhieuXuatKho.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuXuatKho.cs",
+              "RelativeDocumentMoniker": "frmPhieuXuatKho.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuXuatKho.cs",
+              "RelativeToolTip": "frmPhieuXuatKho.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwJMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:21:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmBaoCaoTongHop.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoTongHop.cs",
+              "RelativeDocumentMoniker": "frmBaoCaoTongHop.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoTongHop.cs [Design]",
+              "RelativeToolTip": "frmBaoCaoTongHop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:41:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBaoCaoTongHop.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoTongHop.Designer.cs",
+              "RelativeDocumentMoniker": "frmBaoCaoTongHop.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoTongHop.Designer.cs",
+              "RelativeToolTip": "frmBaoCaoTongHop.Designer.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAQwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T15:41:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmTrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "frmTrangChu.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTrangChu.cs [Design]",
+              "RelativeToolTip": "frmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:13:39.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTrangChu.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "frmTrangChu.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTrangChu.cs",
+              "RelativeToolTip": "frmTrangChu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:44:25.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmBaoCaoThongKe.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "frmBaoCaoThongKe.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoThongKe.cs",
+              "RelativeToolTip": "frmBaoCaoThongKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:16:36.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmTrangChu.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTrangChu.Designer.cs",
+              "RelativeDocumentMoniker": "frmTrangChu.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTrangChu.Designer.cs",
+              "RelativeToolTip": "frmTrangChu.Designer.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAQwNgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T14:25:34.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "frmChiTietDonHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmChiTietDonHang.cs",
+              "RelativeToolTip": "frmChiTietDonHang.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAQwKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:31:32.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAACwDAAAAAAAAAAAUwFADAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:31:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmGiaoHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmGiaoHang.cs",
+              "RelativeDocumentMoniker": "frmGiaoHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmGiaoHang.cs",
+              "RelativeToolTip": "frmGiaoHang.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAQwL4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:33:33.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmGiaoHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmGiaoHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmGiaoHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmGiaoHang.Designer.cs",
+              "RelativeToolTip": "frmGiaoHang.Designer.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAQwOQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T12:32:51.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmPhieuNhapKho.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "frmPhieuNhapKho.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuNhapKho.cs",
+              "RelativeToolTip": "frmPhieuNhapKho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:20:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmQuanLyThuoc.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyThuoc.cs",
+              "RelativeDocumentMoniker": "frmQuanLyThuoc.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyThuoc.cs",
+              "RelativeToolTip": "frmQuanLyThuoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:30:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmQuanLyThuoc.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyThuoc.Designer.cs",
+              "RelativeDocumentMoniker": "frmQuanLyThuoc.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyThuoc.Designer.cs",
+              "RelativeToolTip": "frmQuanLyThuoc.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAQwMsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:30:26.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmMuaHangKhachHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMuaHangKhachHang.cs",
+              "RelativeDocumentMoniker": "frmMuaHangKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMuaHangKhachHang.cs",
+              "RelativeToolTip": "frmMuaHangKhachHang.cs",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAAwL4BAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:20:51.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmPhieuXuatKho.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuXuatKho.Designer.cs",
+              "RelativeDocumentMoniker": "frmPhieuXuatKho.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuXuatKho.Designer.cs",
+              "RelativeToolTip": "frmPhieuXuatKho.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAlwEcBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:36:04.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PharmacyManagement.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\PharmacyManagement.cs",
+              "RelativeDocumentMoniker": "PharmacyManagement.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\PharmacyManagement.cs",
+              "RelativeToolTip": "PharmacyManagement.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:04:25.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmMuaHangKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMuaHangKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmMuaHangKhachHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMuaHangKhachHang.Designer.cs",
+              "RelativeToolTip": "frmMuaHangKhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANgBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:21:26.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmQuanLyKhachHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "frmQuanLyKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyKhachHang.cs",
+              "RelativeToolTip": "frmQuanLyKhachHang.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAQwOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:36:41.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmMuaHangKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMuaHangKhachHang.cs",
+              "RelativeDocumentMoniker": "frmMuaHangKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmMuaHangKhachHang.cs [Design]",
+              "RelativeToolTip": "frmMuaHangKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:20:48.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmPhieuNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuNhapKho.cs",
+              "RelativeDocumentMoniker": "frmPhieuNhapKho.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuNhapKho.cs [Design]",
+              "RelativeToolTip": "frmPhieuNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:14:19.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "frmHoaDon.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoaDon.cs",
+              "RelativeToolTip": "frmHoaDon.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T03:07:00.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmQuanLyKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "frmQuanLyKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyKhachHang.cs [Design]",
+              "RelativeToolTip": "frmQuanLyKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:30:38.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmQuanLyKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmQuanLyKhachHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyKhachHang.Designer.cs",
+              "RelativeToolTip": "frmQuanLyKhachHang.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAQwDEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T02:45:34.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmGiaoHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmGiaoHang.cs",
+              "RelativeDocumentMoniker": "frmGiaoHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmGiaoHang.cs [Design]",
+              "RelativeToolTip": "frmGiaoHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:28:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmTonKho.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTonKho.cs",
+              "RelativeDocumentMoniker": "frmTonKho.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTonKho.cs [Design]",
+              "RelativeToolTip": "frmTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:26:33.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmTonKho.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTonKho.cs",
+              "RelativeDocumentMoniker": "frmTonKho.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTonKho.cs",
+              "RelativeToolTip": "frmTonKho.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:35:25.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmTonKho.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTonKho.Designer.cs",
+              "RelativeDocumentMoniker": "frmTonKho.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmTonKho.Designer.cs",
+              "RelativeToolTip": "frmTonKho.Designer.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:14:25.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmHoSoKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoSoKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmHoSoKhachHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoSoKhachHang.Designer.cs",
+              "RelativeToolTip": "frmHoSoKhachHang.Designer.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAO8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:12:39.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmPhieuXuatKho.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuXuatKho.cs",
+              "RelativeDocumentMoniker": "frmPhieuXuatKho.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmPhieuXuatKho.cs [Design]",
+              "RelativeToolTip": "frmPhieuXuatKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:56:22.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmDangNhapKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangNhapKhachHang.cs",
+              "RelativeDocumentMoniker": "frmDangNhapKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangNhapKhachHang.cs [Design]",
+              "RelativeToolTip": "frmDangNhapKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:09:54.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmHoSoKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoSoKhachHang.cs",
+              "RelativeDocumentMoniker": "frmHoSoKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoSoKhachHang.cs [Design]",
+              "RelativeToolTip": "frmHoSoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:12:11.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmDangKyKhachHangSi.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyKhachHangSi.cs",
+              "RelativeDocumentMoniker": "frmDangKyKhachHangSi.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyKhachHangSi.cs",
+              "RelativeToolTip": "frmDangKyKhachHangSi.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:11:05.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmDangKyKhachHangSi.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyKhachHangSi.cs",
+              "RelativeDocumentMoniker": "frmDangKyKhachHangSi.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyKhachHangSi.cs [Design]",
+              "RelativeToolTip": "frmDangKyKhachHangSi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:11:01.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmDangKyThanhVien.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyThanhVien.cs",
+              "RelativeDocumentMoniker": "frmDangKyThanhVien.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyThanhVien.cs",
+              "RelativeToolTip": "frmDangKyThanhVien.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T07:06:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmDangKyThanhVien.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyThanhVien.cs",
+              "RelativeDocumentMoniker": "frmDangKyThanhVien.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDangKyThanhVien.cs [Design]",
+              "RelativeToolTip": "frmDangKyThanhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:28:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmSuaKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmSuaKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmSuaKhachHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmSuaKhachHang.Designer.cs",
+              "RelativeToolTip": "frmSuaKhachHang.Designer.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAQwP4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:09:14.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmSuaKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmSuaKhachHang.cs",
+              "RelativeDocumentMoniker": "frmSuaKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmSuaKhachHang.cs [Design]",
+              "RelativeToolTip": "frmSuaKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:09:04.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmDanhSachDonHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDanhSachDonHang.cs",
+              "RelativeDocumentMoniker": "frmDanhSachDonHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDanhSachDonHang.cs",
+              "RelativeToolTip": "frmDanhSachDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:07:59.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmSuaKhachHang.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmSuaKhachHang.cs",
+              "RelativeDocumentMoniker": "frmSuaKhachHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmSuaKhachHang.cs",
+              "RelativeToolTip": "frmSuaKhachHang.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:09:46.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmDanhSachDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDanhSachDonHang.cs",
+              "RelativeDocumentMoniker": "frmDanhSachDonHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDanhSachDonHang.cs [Design]",
+              "RelativeToolTip": "frmDanhSachDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:28:58.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmBanHang.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBanHang.cs",
+              "RelativeDocumentMoniker": "frmBanHang.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBanHang.cs [Design]",
+              "RelativeToolTip": "frmBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:28:40.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "frmDanhSachDonHang.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDanhSachDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "frmDanhSachDonHang.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmDanhSachDonHang.Designer.cs",
+              "RelativeToolTip": "frmDanhSachDonHang.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAQwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:08:04.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "frmHoaDon.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:28:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmBaoCaoThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoThongKe.cs",
+              "RelativeDocumentMoniker": "frmBaoCaoThongKe.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoThongKe.cs [Design]",
+              "RelativeToolTip": "frmBaoCaoThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:16:29.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frmBaoCaoThongKe.Designer.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "frmBaoCaoThongKe.Designer.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmBaoCaoThongKe.Designer.cs",
+              "RelativeToolTip": "frmBaoCaoThongKe.Designer.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAQwCMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:16:32.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmQuanLyThuoc.cs [Design]",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyThuoc.cs",
+              "RelativeDocumentMoniker": "frmQuanLyThuoc.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\frmQuanLyThuoc.cs [Design]",
+              "RelativeToolTip": "frmQuanLyThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:30:40.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\UIHelper.cs",
+              "RelativeDocumentMoniker": "UIHelper.cs",
+              "ToolTip": "D:\\01_NAT N\u00C8\\01_PTTKHDT\\pharmacy\\UIHelper.cs",
+              "RelativeToolTip": "UIHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:28:45.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\pharmacy.exe.config
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\pharmacy.exe
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\pharmacy.pdb
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.AssemblyReference.cache
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.Properties.Resources.resources
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.GenerateResource.cache
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.CoreCompileInputs.cache
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.exe
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.pdb
+E:\01_PTTKHDT\pharmacy\bin\Debug\pharmacy.exe.config
+E:\01_PTTKHDT\pharmacy\bin\Debug\pharmacy.exe
+E:\01_PTTKHDT\pharmacy\bin\Debug\pharmacy.pdb
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.AssemblyReference.cache
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.exe.config
+E:\01_PTTKHDT\pharmacy\obj\Debug\PharmacyManagement.frmDangNhap.resources
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.Properties.Resources.resources
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.GenerateResource.cache
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.CoreCompileInputs.cache
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.exe
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.pdb
+E:\01_PTTKHDT\pharmacy\bin\Debug\BouncyCastle.Cryptography.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\itextsharp.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\BouncyCastle.Cryptography.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\itextsharp.xml
+E:\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.Up2Date
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Options.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Buffers.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.IO.Pipelines.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Memory.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Numerics.Vectors.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Encodings.Web.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Json.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Channels.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Extensions.Abstractions.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Options.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Buffers.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.IO.Pipelines.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Memory.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Numerics.Vectors.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Encodings.Web.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Json.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Channels.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\01_PTTKHDT\pharmacy\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\01_PTTKHDT\pharmacy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\BouncyCastle.Cryptography.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\itextsharp.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Options.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Buffers.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.IO.Pipelines.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Memory.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Numerics.Vectors.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Encodings.Web.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Json.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Channels.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\BouncyCastle.Cryptography.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\itextsharp.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Extensions.Abstractions.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Data.SqlClient.Internal.Logging.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Options.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Buffers.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.IO.Pipelines.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Memory.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Numerics.Vectors.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Encodings.Web.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Text.Json.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Channels.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\PharmacyManagement.frmDangNhap.resources
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.csproj.Up2Date
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\PharmacyManagement.frmMain.resources
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\PharmacyManagement.frmTrangChu.resources
+D:\01_NAT NÈ\01_PTTKHDT\pharmacy\obj\Debug\pharmacy.exe.config
