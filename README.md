@@ -1,5 +1,11 @@
 # Pharmacy Sales Management System (PHARMACY)
 
+![Academic Project](https://img.shields.io/badge/Type-Academic%20Project-blue)
+![OOAD](https://img.shields.io/badge/Method-OOAD%2FUnified%20Process-2C3E50)
+![UML](https://img.shields.io/badge/UML-Full%20Set-F46800)
+![SQL Server](https://img.shields.io/badge/SQL-Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white)
+
 > **Academic course project** — Object-oriented analysis and design (OOAD) of a GPP-compliant point-of-sale system for a pharmacy business, covering requirements analysis, full UML artifact set, and database modeling.
 
 ---
@@ -13,7 +19,7 @@ Pharmacy operations require strict compliance with Good Pharmacy Practice (GPP) 
 ## Functional Scope
 
 | Module | Key Capabilities |
-|---|---|
+| --- | --- |
 | Point of Sale | Drug sales, receipt generation, payment processing |
 | Inventory Management | Stock control, FEFO enforcement, low-stock alerts |
 | Prescription Handling | Doctor prescription validation, dispensing workflow |
@@ -28,7 +34,7 @@ Pharmacy operations require strict compliance with Good Pharmacy Practice (GPP) 
 This project applies the Unified Process (UP) methodology with full UML documentation:
 
 | Artifact | Details |
-|---|---|
+| --- | --- |
 | Use Case Diagram | 4 actor roles, 20+ use cases |
 | Use Case Specifications | Detailed main/alternative flows per UC |
 | Activity Diagrams | Process flows per functional module |
@@ -43,16 +49,16 @@ This project applies the Unified Process (UP) methodology with full UML document
 
 ## Key Business Rules Modeled
 
-- **FEFO (First-Expired-First-Out)** — inventory consumption order enforced at the `DrugLot` class level via `applyFEFO()` method
-- **OTP Authentication** — two-step login for pharmacist and admin roles
-- **RBAC** — four actor roles with distinct access permissions: Pharmacist, Warehouse Staff, Doctor, Admin
+* **FEFO (First-Expired-First-Out)** — inventory consumption order enforced at the `DrugLot` class level via `applyFEFO()` method
+* **OTP Authentication** — two-step login for pharmacist and admin roles
+* **RBAC** — four actor roles with distinct access permissions: Pharmacist, Warehouse Staff, Doctor, Admin
 
 ---
 
 ## Technology Stack
 
 | Layer | Technology |
-|---|---|
+| --- | --- |
 | Modeling | Enterprise Architect (UML), Draw.io (ERD) |
 | Documentation | Word, Google Docs |
 | Database Design | SQL Server (schema only — design-phase project) |
@@ -63,13 +69,15 @@ This project applies the Unified Process (UP) methodology with full UML document
 ## Repository Structure
 
 ```
+/CHUONGTRINH    → Implementation excerpts (C# / SQL)
 /docs           → Use Case specs, UML diagrams (exported)
 /database       → ERD, entity-mapping tables, schema scripts
-/screenshots    → Diagram screenshots for quick reference
 README.md
 ```
 
 ---
+
+## Screenshots
 
 ## Screenshots
 Use Case
@@ -84,15 +92,22 @@ Program
 <img width="357" height="213" alt="image" src="https://github.com/user-attachments/assets/4e184cb8-f761-411d-9b66-ed7608bc04a8" />
 <img width="324" height="193" alt="image" src="https://github.com/user-attachments/assets/1a99c3dd-72b1-427f-ac50-43986f1c5dd0" />
 
+---
 
+## Key Outcomes
 
+* Specified **20+ use cases** across 4 actor roles (Pharmacist, Warehouse, Doctor, Admin)
+* Produced **full UML artifact set** (Use Case, Activity, Sequence, State Machine, Class)
+* Modeled **GPP-compliant business logic**: FEFO, OTP, RBAC
+* Designed **ERD with entity-mapping tables** for SQL Server implementation
+* Followed Unified Process methodology end-to-end
 
 ---
 
 ## Academic Note
 
-This repository is an academic OOAD course project developed for portfolio and internship review purposes. The system was designed and specified; implementation code is included where available.
+This repository is an academic OOAD course project developed for portfolio and internship review purposes. The primary focus of this repository is analysis and design artifacts; implementation excerpts are included where available.
 
-**Course:** Object-Oriented Analysis & Design — University of Finance & Marketing (UFM)  
-**Period:** April 2026  
+**Course:** Object-Oriented Analysis & Design — University of Finance & Marketing (UFM)
+**Period:** April 2026
 **Contributor:** Nguyen Anh Thu
