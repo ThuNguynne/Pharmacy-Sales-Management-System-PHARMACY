@@ -72,8 +72,20 @@ README.md
 ---
 
 ## Screenshots
+Use Case
+<img width="440" height="390" alt="image" src="https://github.com/user-attachments/assets/9889d127-0582-44b3-b445-96f54e597ae0" />
+Class
+<img width="440" height="317" alt="image" src="https://github.com/user-attachments/assets/d7dda05c-7038-494d-97cc-5f0ff4a0b30b" />
+Program
+<img width="440" height="274" alt="image" src="https://github.com/user-attachments/assets/0bf74fdb-0e1f-46c3-aca2-a9746af1728e" />
+<img width="440" height="279" alt="image" src="https://github.com/user-attachments/assets/67774ac8-dc4e-4be3-ad28-846bbf6e934f" />
+<img width="328" height="137" alt="image" src="https://github.com/user-attachments/assets/ba86d4d8-800e-4ae6-ad00-7603b67aa79d" />
+<img width="289" height="309" alt="image" src="https://github.com/user-attachments/assets/a3ee9c72-257d-4e6b-a044-9e99bd035a6f" />        <img width="178" height="229" alt="image" src="https://github.com/user-attachments/assets/4c21e467-5e02-4285-a75c-4709077e120c" />
+<img width="357" height="213" alt="image" src="https://github.com/user-attachments/assets/4e184cb8-f761-411d-9b66-ed7608bc04a8" />
+<img width="324" height="193" alt="image" src="https://github.com/user-attachments/assets/1a99c3dd-72b1-427f-ac50-43986f1c5dd0" />
 
-> *(Add screenshots of Use Case diagram, Class diagram, and ERD here)*
+
+
 
 ---
 
